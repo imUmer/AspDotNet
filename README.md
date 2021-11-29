@@ -311,7 +311,7 @@ The following table provides routes to be used in this module's completed projec
 # THE PAGES DIRECTORY STRUCTURE AND ROUTING REQUESTS
  
 | URL | Maps to this Razor page |
-| ------------- | ------------- |
+| :-------------: | :-------------: |
 | www.domain.com   | Pages/Index.cshtml |
 | www.domain.com/products   | Pages/Products/Index.cshtml |
 | www.domain.com/products/create   | Pages/Products/Create.cshtml |
@@ -320,7 +320,7 @@ The following table provides routes to be used in this module's completed projec
 1. What statement best describes a PageModel?
 
 - [x] A PageModel encapsulates the logic operations scoped just to its Razor page.
- **REASON**
+ `REASON`
  **A PageModel encapsulates the data properties and logic operations scoped just to its Razor page. By convention, it's defined in a '.cshtml.cs' file using the same name and directory.**
  
 - [ ]A PageModel provides top-level view templates using Razor syntax.
