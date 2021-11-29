@@ -308,13 +308,15 @@ Razor Pages uses the directory structure within the Pages directory as the conve
 
 The following table provides routes to be used in this module's completed project.
 
-THE PAGES DIRECTORY STRUCTURE AND ROUTING REQUESTS
-|URL|Maps to this Razor page
-|www.domain.com |Pages/Index.cshtml
-|www.domain.com/index |Pages/Index.cshtml
-|www.domain.com/products |Pages/Products/Index.cshtml
-|www.domain.com/products/create |Pages/Products/Create.cshtml 
-Check your knowledge
+# THE PAGES DIRECTORY STRUCTURE AND ROUTING REQUESTS
+ 
+| URL | Maps to this Razor page |
+| ------------- | ------------- |
+| www.domain.com   | Pages/Index.cshtml |
+| www.domain.com/products   | Pages/Products/Index.cshtml |
+| www.domain.com/products/create   | Pages/Products/Create.cshtml |
+ 
+# Check your knowledge
 1. What statement best describes a PageModel?
 
 - [x] A PageModel encapsulates the logic operations scoped just to its Razor page.
