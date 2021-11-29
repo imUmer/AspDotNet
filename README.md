@@ -93,11 +93,11 @@ Razor Pages is built on the same infrastructure as ASP.NET Core MVC. Both Razor 
 # Check your knowledge
 1. Which following statement is true for Razor Pages?
 
-- [] Use Razor Pages for an ASP.NET Core app that isn't focused on generating HTML, such as a web API.
+- [X] Use Razor Pages for an ASP.NET Core app that isn't focused on generating HTML, such as a web API.
 
-- [] Razor Pages can't coexist in an ASP.NET Core MVC app.
+- [X] Razor Pages can't coexist in an ASP.NET Core MVC app.
 
-- [] A productivity advantage of Razor Pages is that it keeps together what tends to change together for views in your app.
+- [X] A productivity advantage of Razor Pages is that it keeps together what tends to change together for views in your app.
 
 **Use Razor Pages to keep ASP.NET Core pages organized in a simpler way. All view (page) specific logic and page properties (view model) can be kept in the same proximity.**
 
