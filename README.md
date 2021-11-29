@@ -83,11 +83,14 @@ Razor Pages allow you to keep your ASP.NET Core pages organized in a simpler way
  
  ### Note
 ```
-ASP.NET Core also supports the MVC pattern for building web apps. The Model defines the fundamental behaviors and data for the app and its components. The View uses HTML and Razor syntax to provide the UI. The Controller is a class that receives HTTP requests and handles user actions.
+ASP.NET Core also supports the MVC pattern for building web apps. The Model defines the fundamental behaviors and data for the app and its components.
+The View uses HTML and Razor syntax to provide the UI. The Controller is a class that receives HTTP requests and handles user actions.
 
 Use ASP.NET Core MVC when you prefer to build web apps with a clear separation between the Model, View, and Controller.
 
-Razor Pages is built on the same infrastructure as ASP.NET Core MVC. Both Razor Pages and MVC can be used within the same ASP.NET Core app. ASP.NET Core MVC is outside of the scope for this module.
+Razor Pages is built on the same infrastructure as ASP.NET Core MVC. Both Razor Pages and MVC can be used within the same ASP.NET Core app.
+ASP.NET Core MVC is outside of the scope for this module.
+
 ```
 
 # Check your knowledge
@@ -102,5 +105,9 @@ Razor Pages is built on the same infrastructure as ASP.NET Core MVC. Both Razor 
   **Use Razor Pages to keep ASP.NET Core pages organized in a simpler way. All view (page) specific logic and page properties (view model) can be kept in the same proximity.**
 
 
+<h3 align="center">Unit 3</h3>
+
+
+<p style="color: navy"></p>
 Update readme
 
