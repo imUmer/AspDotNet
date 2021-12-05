@@ -1,0 +1,7 @@
+dotnet new webapp -o [app name] --no-https
+dotnet new page 
+dotnet run
+dotnet test
+dotnet watch
+
+dotnet new page --name Pizza --namespace RazorPagesPizza.Pages --output Pages
