@@ -323,7 +323,7 @@ The following table provides routes to be used in this module's completed projec
  `REASON`
  **A PageModel encapsulates the data properties and logic operations scoped just to its Razor page. By convention, it's defined in a '.cshtml.cs' file using the same name and directory.**
  
-- [ ]A PageModel provides top-level view templates using Razor syntax.
+- [ ] A PageModel provides top-level view templates using Razor syntax.
 
 - [ ] A PageModel is a partial Razor markup file used to break up large markup files into smaller components.
 
